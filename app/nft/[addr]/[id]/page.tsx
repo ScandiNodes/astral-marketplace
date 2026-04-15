@@ -23,7 +23,7 @@ import {
   NFTCardData,
 } from "@/components/nft";
 
-// Mock data — ersätts med on-chain query
+// Mock data — replace with on-chain query
 const mockNFT = {
   contractAddr:
     "terra1htnzmetd2xlkgrqqdf3whu8wzwhtjlx7ahrk6qsxxneaktl63r9sx5v2uk",

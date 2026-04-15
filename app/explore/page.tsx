@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { SlidersHorizontal, Grid3x3, LayoutList } from "lucide-react";
+import { Grid3x3, LayoutList } from "lucide-react";
 import { Button, Input, Badge } from "@/components/ui";
 import { Container } from "@/components/layout";
 import { NFTGrid, NFTCardData } from "@/components/nft";

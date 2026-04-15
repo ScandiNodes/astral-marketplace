@@ -15,7 +15,7 @@ import {
   ActivityItem,
 } from "@/components/nft";
 
-// Mock data — ersätts med API-anrop
+// Mock data — replace with API calls
 const mockTrending: NFTCardData[] = [
   {
     contractAddr: "terra1htnzmetd2xlkgrqqdf3whu8wzwhtjlx7ahrk6qsxxneaktl63r9sx5v2uk",

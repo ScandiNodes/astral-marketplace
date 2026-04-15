@@ -9,7 +9,7 @@ import { NFTGrid, NFTCardData, PriceTag, WalletAddress, ActivityFeed, ActivityIt
 
 type Tab = "items" | "activity" | "about";
 
-// Mock data — ersätts med API-anrop baserat på params.addr
+// Mock data — replace with API calls based on params.addr
 const mockCollection = {
   name: "CAPA Crystals",
   description:

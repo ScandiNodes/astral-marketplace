@@ -141,7 +141,7 @@ export default function CreatePage() {
               <label className="block text-small font-medium mb-1.5">
                 Collection Name *
               </label>
-              <Input placeholder="T.ex. Cosmic Creatures" />
+              <Input placeholder="e.g. Cosmic Creatures" />
             </div>
 
             <div>
